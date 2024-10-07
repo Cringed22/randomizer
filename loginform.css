@@ -90,6 +90,13 @@ a:hover {
     margin-bottom: 10px;
 }
 
+#error{
+    color: #d32f2f;
+    font-size: 0.9em;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+
 @media (max-width: 600px) {
     form {
         padding: 20px;
